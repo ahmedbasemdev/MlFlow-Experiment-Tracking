@@ -1,0 +1,15 @@
+artifact_uri: file:///G:/Projects/MLFlow%20Project/mlruns/0/5bd5e4f7f3e347d98b4f696e01024f15/artifacts
+end_time: 1709831040847
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5bd5e4f7f3e347d98b4f696e01024f15
+run_name: popular-mouse-367
+run_uuid: 5bd5e4f7f3e347d98b4f696e01024f15
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709831035714
+status: 3
+tags: []
+user_id: Ahmed-Basem
